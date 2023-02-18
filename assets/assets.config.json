@@ -1,0 +1,50 @@
+{
+  "LOGO-IMG.svg": {
+    "mime": "image/svg+xml"
+  },
+  "home-hero-restaurant.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "logo-doorash-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-postmates-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-rappi-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "logo-grubhub-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu-breakfasts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu-main-dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu-drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu-desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "menu-breakfasts-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "email-icon-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone-icon-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "location-icon-restaurant.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about-home-restaurant.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
